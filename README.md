@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright (c) 2025 Ariel Viscomi
+
 # pyOTP
 
 Aplicación de escritorio para generar códigos OTP (TOTP/HOTP) desde una URI estándar `otpauth://…`, con almacenamiento cifrado, interfaz oscura minimalista y opción de permanecer en la bandeja del sistema.
@@ -239,8 +242,7 @@ No compartas tu `config.ini` ni la `otpauth://…`.
 ---
 
 ## Licencia
-
-Definir antes de publicar. Sugerencia: **MIT** o **Apache-2.0**.
+Código bajo [GPL-3.0-or-later](./LICENSE). © 2025 Ariel Viscomi.
 
 ---
 
