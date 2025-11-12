@@ -1,4 +1,4 @@
-# OTP (pyOTP-config)
+# pyOTP
 
 Aplicación de escritorio para generar códigos OTP (TOTP/HOTP) desde una URI estándar `otpauth://…`, con almacenamiento cifrado, interfaz oscura minimalista y opción de permanecer en la bandeja del sistema.
 
