@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 // SPDX-License-Identifier: GPL-3.0-or-later
 // Copyright (c) 2025 Ariel Viscomi
+=======
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) 2025 Ariel Viscomi
+>>>>>>> b7ad83102ca2dde5f382c9b8236d7e97c0ca59f7
 
 global cachorro_app
 global Version
